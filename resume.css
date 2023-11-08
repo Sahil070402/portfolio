@@ -14,7 +14,7 @@ html,body{
     background-image: url(resume/resume.jpg);
     background-size: cover;
     background-position: center;
-    background-attachment: fixed;
+    background-attachment:fixed ;
    margin-top: -16px;
 }
 .re{
@@ -179,8 +179,10 @@ position: relative;
     color:royalblue;
     transition: color 0.5s;
     font-size: 20px;
+   
 
 }
+
 #about #about-me #re a:hover{
     color: plum;
 }
